@@ -43,7 +43,7 @@ Start using imported directive, e.g.:
 </div>
 ```
 ## Demo
-PLease see a simple demo on my personal site: [demo](https://pikus.spb.ru/code/jquery-scrollbar-demo-angular)
+Please see a simple demo on my personal site: [demo](https://pikus.spb.ru/code/jquery-scrollbar-demo-angular)
 
 Live demo samples can also be found on author's demo page:
 https://gromo.github.io/jquery.scrollbar/demo/basic.html
